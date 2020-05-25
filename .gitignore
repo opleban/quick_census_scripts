@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+data/
+venv/
+census_output.csv
+cbg_patterns.csv
